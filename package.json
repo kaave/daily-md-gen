@@ -1,6 +1,6 @@
 {
   "name": "daily-md-gen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "create daily md",
   "main": "dist/index.js",
   "bin": {
